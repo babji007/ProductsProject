@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "name": "James",
+      "salary": 220000,
+      "doj": "July 17,2000"
+    },
+    {
+      "id": 2,
+      "name": "Abhinesh",
+      "salary": 320000,
+      "doj": "July 17,1996"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "salary": 0,
+      "doj": "8/27/2021"
+    }
+  ]
+}
